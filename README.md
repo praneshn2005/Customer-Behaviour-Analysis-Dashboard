@@ -5,7 +5,7 @@ In today’s competitive retail environment, understanding customer purchasing p
 
 By leveraging SQL for structured querying, Python for data preprocessing and exploratory analysis, and Power BI for interactive visualization, this project transforms raw transactional data into meaningful business insights. The analysis helps identify high-performing categories, key customer segments, spending behavior, and overall customer satisfaction trends. These insights support strategic decision-making, marketing optimization, and improved customer engagement.
 
-🔷 DATA DESCRIPTION
+🔷 DATA DESCRIPTION:
 
 The dataset consists of customer shopping transaction data and includes the following columns:
 
@@ -21,36 +21,36 @@ Payment_Method: Method used for payment.
 Frequency_of_Purchases: Purchase frequency pattern of the customer.
 Location: Geographic location of the customer.
 
-🔷 TECHNOLOGIES USED
-SQL
+🔷 TECHNOLOGIES USED:
+SQL-
 
 Used for structured data querying, aggregations, joins, and calculation of key metrics such as total sales, revenue by category, and average purchase amount.
 
-PYTHON PROGRAMMING LANGUAGE
+PYTHON PROGRAMMING LANGUAGE-
 
 Python is used for data cleaning, preprocessing, and exploratory data analysis due to its powerful data handling capabilities.
 
-PANDAS
+PANDAS-
 
 Used for data manipulation, handling missing values, filtering, grouping, and summary statistics.
 
-NUMPY
+NUMPY-
 
 Provides numerical operations and supports efficient array-based computations.
 
-MATPLOTLIB AND SEABORN
+MATPLOTLIB AND SEABORN-
 
 Used for data visualization and exploratory analysis to identify trends and patterns before dashboard creation.
 
-JUPYTER NOTEBOOK
+JUPYTER NOTEBOOK-
 
 Interactive environment used for performing data analysis, documentation, and visualization.
 
-POWER BI
+POWER BI-
 
 Used to create an interactive and dynamic dashboard to visualize customer behavior insights, KPIs, and business trends.
 
-🔷 KEY ANALYSIS PERFORMED
+🔷 KEY ANALYSIS PERFORMED:
 
 Total number of customers analysis
 
@@ -70,7 +70,7 @@ Subscription vs Non-subscription distribution
 
 Gender-based purchase analysis
 
-🔷 DASHBOARD FEATURES
+🔷 DASHBOARD FEATURES:
 
 KPI Cards (Total Customers, Average Purchase, Average Rating)
 
@@ -82,7 +82,7 @@ Interactive Filters (Gender, Subscription Status, Category)
 
 Dynamic and user-friendly visual interface
 
-🔷 OUTCOME
+🔷 OUTCOME:
 
 The outcome of this project is a comprehensive analysis of customer shopping behavior supported by an interactive Power BI dashboard. The project provides clear visibility into revenue drivers, customer demographics, subscription impact, and category performance.
 
